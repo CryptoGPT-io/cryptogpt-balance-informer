@@ -1,1 +1,1 @@
-export const CC_HISTORY_URI = "/history.json";
+export const CC_HISTORY_URI = "/history.json?cache=false";
